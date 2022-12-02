@@ -1,0 +1,32 @@
+[
+    {
+        "text": "rain in seattle,\ndon''t forget an umbrella,\nor it will be gloom",
+        "image": "puddle_jumper_octodex.jpg",
+        "id": 1,
+        "hearts": 0
+    },
+    {
+        "text": "my tunes on repeat,\nit''s time for me to dj,\nhave you heard this one?",
+        "image": "vinyltocat.jpeg",
+        "id": 2,
+        "hearts": 0
+    },
+    {
+        "text": "snow is still falling,\nis it time for apres yet?\nlet''s do one more run",
+        "image": "snowtocat_final.jpg",
+        "id": 3,
+        "hearts": 0
+    },
+    {
+        "text": "beep boop bop beep boop,\ni am robot octocat,\ni think there''s a bug",
+        "image": "Robotocat.jpeg",
+        "id": 4,
+        "hearts": 0
+    },
+    {
+        "text": "same plot as before,\nSo why is it still awesome?\nI think it''s the hat",
+        "image": "linktocat.jpg",
+        "id": 5,
+        "hearts": 0
+    }
+]
